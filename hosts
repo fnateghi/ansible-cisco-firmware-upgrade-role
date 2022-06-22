@@ -1,0 +1,6 @@
+#################
+# cisco routers #
+#################
+
+[routers]
+dns_name ansible_host=0.0.0.0 
